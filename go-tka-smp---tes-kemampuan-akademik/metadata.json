@@ -1,0 +1,6 @@
+{
+  "name": "GO TKA SMP - Tes Kemampuan Akademik",
+  "description": "Platform simulasi CBT Tes Kemampuan Akademik (TKA) resmi dan interaktif untuk jenjang SMP/MTs dengan soal standar HOTS, sistem anti-cheat, dan analisis performa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
